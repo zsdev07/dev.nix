@@ -1,6 +1,7 @@
 { pkgs, ... }: {
   # Which nixpkgs channel to use.
   channel = "stable-24.05"; # or "unstable"
+  # Made By ZDEV07 & ZSDEV07
   
   # Use https://search.nixos.org/packages to find packages
   packages = [
@@ -36,3 +37,4 @@
     };
   };
 }
+
